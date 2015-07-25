@@ -1,0 +1,1 @@
+COPY InputManager.asset ..\..\ProjectSettings /y
